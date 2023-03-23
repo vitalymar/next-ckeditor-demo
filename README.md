@@ -1,13 +1,13 @@
 ### nextjs-admin-template
 
-Admin dashboard template based on Next.js with [@paljs/ui](https://github.com/paljs/ui) component package
+Admin dashboard template based on Next.js
 
 #### Setup:
 
 ```
-git clone https://github.com/paljs/nextjs-admin-template.git
+clone this repo.
 
-cd nextjs-admin-template
+cd next-ckeditor-demo
 
 yarn install
 
